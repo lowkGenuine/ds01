@@ -2,6 +2,8 @@
 
 [Русский](README.ru.md) · [Download VST3](https://github.com/lowkGenuine/ds01/releases) · [User guide](docs/USER_GUIDE.en.md)
 
+[Support the author](https://www.donationalerts.com/r/lesha_diabet_)
+
 DEESS-01 is a de-esser for controlling sharp consonants in a vocal recording. Choose the problem frequency, set when processing starts, and limit how much is removed. The monochrome interface keeps Frequency, Threshold and Range on the main screen; Details holds timing and mix controls.
 
 **Download the plug-in:** [Windows x64 — v0.2.0](https://github.com/lowkGenuine/ds01/releases/download/v0.2.0/DEESS-01-0.2.0-win-vst3.zip).

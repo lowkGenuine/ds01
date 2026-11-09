@@ -2,6 +2,8 @@
 
 [English](README.md) · [Скачать VST3](https://github.com/lowkGenuine/ds01/releases) · [Руководство](docs/USER_GUIDE.ru.md)
 
+[Поддержать автора](https://www.donationalerts.com/r/lesha_diabet_)
+
 DEESS-01 — деэссер для резких согласных в вокале и речи. Выбери проблемную частоту, настрой момент срабатывания и ограничь глубину подавления. На основном экране монохромного интерфейса находятся Frequency, Threshold и Range; в Details — настройки времени и смешивания.
 
 **Скачать готовый плагин:** [Windows x64 — v0.2.0](https://github.com/lowkGenuine/ds01/releases/download/v0.2.0/DEESS-01-0.2.0-win-vst3.zip).
