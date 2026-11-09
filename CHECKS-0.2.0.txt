@@ -1,0 +1,19 @@
+Deess01DSPTest.exe 0
+PASS: silence, latency/bypass alignment, 4 sample rates, 4 block sizes, selective suppression and preserved body, wideband action, range cap, mix, detector/removed monitoring, adaptive detection, M/S isolation, automation stability
+
+Split: low=0.00198367 dB, sibilance=-8.99903 dB; wide body=-8.99687 dB
+
+
+
+Deess01HostCheck.exe 0
+PASS: compiled VST3 scan/load, 12 exposed controls, zero latency and transparent zero Range at 4 sample rates / 4 buffer sizes, selective and wideband suppression, stereo balance, saved settings, bypass, editor, mono and empty buffers
+
+Binary Split: body -0.0121484 dB, sibilance -5.99873 dB
+
+
+
+Deess01Preview.exe 0
+PASS: real 840x300 editor renders both pages, 3 main / 6 detail controls, frequency text parsing and control attachment, page changes preserve sound, view persistence
+
+
+

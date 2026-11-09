@@ -1,0 +1,2 @@
+d6eb8b50bd1cc2b6c042b31a35b6699b0000066b4b3a57db8a1dcfed05c8f8a0  DEESS-01-0.2.0-win-vst3.zip
+60b40e2f139cc6df539fc2e44ddc72cd1d6f138169765090d3f7ff5ef2920430  DEESS-01-0.2.0-source.zip
